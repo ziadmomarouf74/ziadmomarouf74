@@ -61,26 +61,6 @@ A multiplayer Tic Tac Toe game built using **C++** and **OOP principles**.
 
 ---
 
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ziadmomarouf74&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/ziadmomarouf74/ziadmomarouf74/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
 # 🎯 Current Goals
 
 - ⚛️ Master React
@@ -102,12 +82,15 @@ A multiplayer Tic Tac Toe game built using **C++** and **OOP principles**.
 </div>
 
 ---
+# 🌐 Socials
+![LinkedIn](https://www.linkedin.com/in/ziad-mohamed-5b5967407)
+
 
 # 🌐 Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/ziadmomarouf">
+<a href="https://github.com/ziadmomarouf74">
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
