@@ -43,6 +43,9 @@ A multiplayer Tic Tac Toe game built using C++ Programming principles.
 📊 GitHub Stats
 <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=ziadmomarouf74&show_icons=true&theme=tokyonight" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadmomarouf74&layout=compact&theme=tokyonight" /> </p>
 
+## 🌐 Socials
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ziad-mohamed-5b5967407)
+
 🎵 Beyond Coding
 ⚽ Football
 📸 Photography
