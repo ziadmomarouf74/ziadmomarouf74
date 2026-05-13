@@ -1,58 +1,124 @@
-# Hi there 👋 I'm Ziad
+<div align="center">
 
-while(!success) {
-    learn();
-    build();
-    improve();
-}
+# ⚡ Ziad Mohamed ⚡
 
-🎓 CS Student passionate about problem solving and software development
-🌐 Currently learning Basics of Programming
-💻 Interested in C++ and Object-Oriented Programming
-⚡ Building projects while improving my frontend skills
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=CS+Student;C%2B%2B+Developer;React+Learner;Future+Full+Stack+Developer;Always+Learning+New+Things" />
 
-🚀 About Me
-🔭 Working on improving my development skills every day
-🌱 Currently learning React and modern web technologies
-🎯 Focused on becoming a skilled Full-Stack Developer
-🧠 Strong interest in OOP and clean code practices
-🎮 Love building fun interactive projects
+</div>
 
-👨‍💻 Languages & Concepts
-<p> <img src="https://skillicons.dev/icons?i=cpp" /> </p>
-🌐 Web Development Journey
-<p> <img src="https://skillicons.dev/icons?i=html,css,js,react" /> </p>
-🧰 Tools
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </p>
+---
 
-⚛️ Master React
-🌍 Build responsive web applications
-🧩 Improve problem-solving skills
-🚀 Create larger real-world projects
+# 🚀 About Me
 
-🌟 Featured Project
-🎮 Multiplayer Tic Tac Toe
+🎓 Computer Science Student  
+💻 Passionate about Web Development  
+🌐 Currently learning C++ & Object-Oriented Programming 
+⚡ Interested in building interactive and modern applications  
+🎯 Goal: Become a professional Full-Stack Developer  
 
-A multiplayer Tic Tac Toe game built using C++ Programming principles.
+---
 
-✨ Features
-👥 Multiplayer gameplay
-🎯 Clean game logic
-⚡ Interactive console experience
+# 🛠️ Tech Stack
 
-📊 GitHub Stats
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=ziadmomarouf74&show_icons=true&theme=tokyonight" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadmomarouf74&layout=compact&theme=tokyonight" /> </p>
+<div align="center">
 
-## 🌐 Socials
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ziad-mohamed-5b5967407)
+## 👨‍💻 Languages
 
-🎵 Beyond Coding
-⚽ Football
-📸 Photography
-📚 Reading
-🎧 Music
+<img src="https://skillicons.dev/icons?i=cpp,js,html,css" />
 
-🤝 Connect With Me
-<p align="left"> <a href="https://github.com/ziadmomarouf74"> <img src="https://skillicons.dev/icons?i=github" /> </a> </p>
+## ⚛️ Frameworks & Tools
 
-<p align="center"> 💡 "Code. Learn. Build. Repeat." </p>
+<img src="https://skillicons.dev/icons?i=react,git,github,vscode" />
+
+</div>
+
+---
+
+# 🌟 Featured Project
+
+## 🎮 Multiplayer Tic Tac Toe
+
+A multiplayer Tic Tac Toe game built using **C++** and **OOP principles**.
+
+### ✨ Features
+
+- 👥 Multiplayer gameplay
+- 🧠 Clean Object-Oriented structure
+- ⚡ Fast and interactive gameplay
+- 🎯 Well-organized game logic
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ziadmomarouf74&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadmomarouf74&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ziadmomarouf74&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://github.com/ziadmomarouf74/ziadmomarouf74/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+# 🎯 Current Goals
+
+- ⚛️ Master React
+- 🌍 Build responsive websites
+- 🧩 Improve problem-solving skills
+- 🚀 Create larger real-world projects
+
+---
+
+# 🎵 Beyond Coding
+
+<div align="center">
+
+⚽ Football  
+📸 Photography  
+📚 Reading  
+🎧 Music  
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/ziadmomarouf">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💡 Quote
+
+"Code. Learn. Build. Repeat."
+
+</div>
