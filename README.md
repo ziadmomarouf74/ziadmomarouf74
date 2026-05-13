@@ -50,5 +50,6 @@ A multiplayer Tic Tac Toe game built using C++ Programming principles.
 🎧 Music
 
 🤝 Connect With Me
-<p align="left"> <a href="https://github.com/ziadmomaroug74"> <img src="https://skillicons.dev/icons?i=github" /> </a> </p>
+<p align="left"> <a href="https://github.com/ziadmomarouf74"> <img src="https://skillicons.dev/icons?i=github" /> </a> </p>
+
 <p align="center"> 💡 "Code. Learn. Build. Repeat." </p>
