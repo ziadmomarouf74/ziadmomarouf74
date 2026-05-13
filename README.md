@@ -81,9 +81,9 @@ A multiplayer Tic Tac Toe game built using **C++** and **OOP principles**.
 
 </div>
 
----
-# 🌐 Socials
-![LinkedIn](https://www.linkedin.com/in/ziad-mohamed-5b5967407)
+🌐 Socials
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ziad-mohamed-5b5967407)
 
 
 # 🌐 Connect With Me
