@@ -2,7 +2,7 @@
 
 # ⚡ Ziad Mohamed ⚡
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=CS+Student;C%2B%2B+Developer;React+Learner;Future+Full+Stack+Developer;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=CS+Student;Future+Full+Stack+Developer;Always+Learning+New+Things" />
 
 </div>
 
