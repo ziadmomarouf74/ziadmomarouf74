@@ -36,9 +36,9 @@
 
 # 🌟 Featured Project
 
-## 🎮 Multiplayer Tic Tac Toe
+## 🎮 Tic Tac Toe
 
-A multiplayer Tic Tac Toe game built using **C++** and **OOP principles**.
+A Tic Tac Toe game built using **C++** .
 
 ### ✨ Features
 
