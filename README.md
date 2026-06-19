@@ -12,8 +12,7 @@
 
 🎓 Computer Science Student  
 💻 Passionate about Web Development  
-🌐 Currently learning C++ & Object-Oriented Programming 
-⚡ Interested in building interactive and modern applications  
+🌐 Currently learning C++ & Object-Oriented Programming  
 🎯 Goal: Become a professional Full-Stack Developer  
 
 ---
